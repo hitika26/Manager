@@ -20,4 +20,5 @@ function Get-CountOccurence{
         Write-Output "format to input string is String chracter you might enter wrong format"   
     }
 }
+//errorFile
 Get-CountOccurence
